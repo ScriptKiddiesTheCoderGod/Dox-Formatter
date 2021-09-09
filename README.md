@@ -1,0 +1,1 @@
+Terribly coded dox formatter that automatically prints entered information entered into CMD into a .txt file formatted perfectly to upload straight to doxbin.org or other sites of your choosing. some updates will be coming soon to make the actual format of it a lot better as it currently is just a very basic list of all the information, sort of a WIP type release.
